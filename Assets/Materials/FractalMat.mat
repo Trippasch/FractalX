@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FractalMat
+  m_Shader: {fileID: 4800000, guid: 1bbe9c9fe6c491549a32ce678b6e7ce1, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: ff20c9cf569b2c542bcdc02d61ba95f8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Angle: 0
+    - _Boolean: 0
+    - _Boolean1: 0
+    - _Color: 0
+    - _ColorRepeat: 0.7333333
+    - _ColorSpeed: 0
+    - _DoubleBoolean: 1
+    - _DoublePwr: 1
+    - _EscapeRadius: 4
+    - _FifthPwr: 0
+    - _FourthPwr: 0
+    - _JuliaBoolean: 0
+    - _JuliaSeedX: -0.79
+    - _JuliaSeedY: 0.15
+    - _LeafsBoolean: 0
+    - _Leafyflag: 0
+    - _LinearBoolean: 0
+    - _MaxIter: 255
+    - _Normalflag: 0
+    - _Repeat: 0
+    - _RotationSpeed: 0
+    - _Scale: 0.6119646
+    - _SixthPwr: 0
+    - _Speed: 0
+    - _Symmetry: 0
+    - _Symmetryx4: 0
+    - _Symmetryx8: 0
+    - _ThirdPwr: 0
+    - _TimeRotation: 0
+    - _WaveFrequency: 2
+    m_Colors:
+    - _Area: {r: -0.318584, g: -0.12196726, b: 4.7895103, a: 2.6940994}
+    - _CVariable: {r: 0, g: 0, b: 0, a: 0}
+    - _JuliaSeeds: {r: -0.79, g: 0.15, b: 0, a: 0}
+    - _ScreenParams: {r: 1920, g: 1080, b: 1, a: 1}
+    - _Seed: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
