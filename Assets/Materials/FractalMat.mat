@@ -55,8 +55,9 @@ Material:
     - _TimeRotation: 0
     - _WaveFrequency: 2
     m_Colors:
-    - _Area: {r: -0.318584, g: -0.12196726, b: 4.7895103, a: 2.6940994}
+    - _Area: {r: 0, g: 0, b: 4.2200875, a: 2.3737993}
     - _CVariable: {r: 0, g: 0, b: 0, a: 0}
     - _JuliaSeeds: {r: -0.79, g: 0.15, b: 0, a: 0}
     - _ScreenParams: {r: 1920, g: 1080, b: 1, a: 1}
     - _Seed: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+  m_BuildTextureStacks: []
