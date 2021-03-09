@@ -1,7 +1,7 @@
 # FractalX
 A fractal simulation game project made with Unity.
 
-Check it out here: https://trippinhoppin.itch.io/fractalx
+Check it out here: https://trippasch.itch.io/fractalx
 
 FractalX is a basic fractal simulator game, with many custom features that lets the player explore, interact and customize the fractal on the screen. The player’s role is rather simple. All the player has to do, is to simply relax and explore the beautiful worlds of mathematics and geometry in a fun-laidback way. Also, with the added customizable features on the fractals, the player can create his-her own art by tweaking some of the variables inside the game. The player can either take screenshots by activating immersion mode(pressing F12),  or just zone out and let the game run its course.
 
